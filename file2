@@ -1,0 +1,10 @@
+i was doint gitbash training
+i learned how to create files in git command was vi file2
+how to process git
+1st login to git in google and create a new repository by giving name and it has to be in public and click create repository
+2nd now open gitbash and login with centos ip addr cmd was ssh sajidahmed@url [ urlof centos]
+now mkdir git enter
+cd git
+git init
+git clone url{copy the url from created repository from google}
+create file now cmd vi file1
